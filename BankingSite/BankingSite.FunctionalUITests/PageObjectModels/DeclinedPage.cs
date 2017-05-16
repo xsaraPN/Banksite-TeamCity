@@ -1,5 +1,6 @@
-﻿using OpenQA.Selenium;
+﻿//using OpenQA.Selenium;
 using TestStack.Seleno.PageObjects;
+using TestStack.Seleno.PageObjects.Locators;
 
 namespace BankingSite.FunctionalUITests.PageObjectModels
 {
